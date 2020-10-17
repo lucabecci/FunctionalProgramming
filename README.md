@@ -1,4 +1,5 @@
-Introducción a los desafíos de la programación funcional
+## Introducción a los desafíos de la programación funcional.
+
 La programación funcional es un enfoque para el desarrollo de software basado en la evaluación de funciones. Como las matemáticas, las funciones en la programación mapean la entrada a la salida para producir un resultado. Puede combinar funciones básicas de muchas formas para crear programas cada vez más complejos.
 
 La programación funcional sigue algunos principios básicos:
