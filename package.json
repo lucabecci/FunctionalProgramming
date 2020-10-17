@@ -1,0 +1,12 @@
+{
+  "name": "functionalprogramming",
+  "version": "1.0.0",
+  "description": "this is a repository for functional programming practise",
+  "main": "index.js",
+  "scripts": {
+    "noscript": "null"
+  },
+  "keywords": [],
+  "author": "lucabecci",
+  "license": "ISC"
+}
